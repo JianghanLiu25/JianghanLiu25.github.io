@@ -22,7 +22,7 @@ Papers
 
     In Proceedings of the 63nd Annual Meeting of the Association for Computational Linguistics. **[Oral, Top 8%]**
 
-- **[Learning Multi-granularity and Adaptive Representation for Knowledge Graph Reasoning]**(https://ieeexplore.ieee.org/abstract/document/11037276/)
+- [**Learning Multi-granularity and Adaptive Representation for Knowledge Graph Reasoning**](https://ieeexplore.ieee.org/abstract/document/11037276/)
 
     Ziyu Shang, Peng Wang, **<u>Jianghan Liu</u>**, Jiajun Liu, Guozheng Li, Zijie Xu, Zhizhao Luo, Xiye Chen, and Wenjun Ke
 
