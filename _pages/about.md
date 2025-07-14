@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Hi! I am currently pursuing a Master’s degree in the school of Software Engineering at Southeast University and have received the B.E. degree from Southwest University. **I am actively seeking a PhD position for the Fall 2026 semester.**
+Hi! I am currently pursuing a Master’s degree in the school of Software Engineering at Southeast University and have received the B.E. degree from Southwest University. **I am actively seeking a Ph.D. position starting in Fall 2026**, where I hope to further my research interests and academic development.
 
 Papers
 ======
