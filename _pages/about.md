@@ -31,7 +31,7 @@ Papers
 
 Work Experience
 ======
-- 2025.5 ～ now: LLM-based Generative Recommendation Model 
+- 2025.5 ～ now: LLM-based Generative Recommendation Model at Meituan
 
 
 Education
