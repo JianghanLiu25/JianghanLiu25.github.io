@@ -6,8 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
-I received the B.E. degree from Southwest University in 2022 and is currently pursuing a Master’s degree in the school of Software Engineering at Southeast University, China. 
+Hi! I am currently pursuing a Master’s degree in the school of Software Engineering at Southeast University and have received the B.E. degree from Southwest University. **I am actively seeking a PhD position for the Fall 2026 semester.**
 
 Papers
 ======
@@ -23,7 +22,7 @@ Papers
 
     In Proceedings of the 63nd Annual Meeting of the Association for Computational Linguistics. **[Oral, Top 8%]**
 
-- **Learning Multi-granularity and Adaptive Representation for Knowledge Graph Reasoning**
+- [Learning Multi-granularity and Adaptive Representation for Knowledge Graph Reasoning](https://ieeexplore.ieee.org/abstract/document/11037276/)
 
     Ziyu Shang, Peng Wang, **<u>Jianghan Liu</u>**, Jiajun Liu, Guozheng Li, Zijie Xu, Zhizhao Luo, Xiye Chen, and Wenjun Ke
 
